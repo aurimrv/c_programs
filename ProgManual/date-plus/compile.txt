@@ -1,0 +1,1 @@
+gcc date-plus.c driver.c -o date-plus -w -lm
