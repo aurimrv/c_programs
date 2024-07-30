@@ -1,0 +1,1 @@
+gcc numZero.c driver.c -o numZeroCov -w -lm -fprofile-arcs -ftest-coverage

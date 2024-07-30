@@ -1,0 +1,1 @@
+gcc oddOrPos.c driver.c -o oddOrPos -w -lm
