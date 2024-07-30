@@ -1,0 +1,174 @@
+
+Teste Case # 1 0
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: abc abc abc abc abc 
+	Input Size: 0
+	Output Size: 73
+	Stderr Size: 0
+	Input:
+
+	Output:
+1
+***************** Sorted Strings *****************
+abc
+abc
+abc
+abc
+abc
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 2 1
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: abc def ghi jkl mno 
+	Input Size: 0
+	Output Size: 73
+	Stderr Size: 0
+	Input:
+
+	Output:
+1
+***************** Sorted Strings *****************
+abc
+def
+ghi
+jkl
+mno
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 3 2
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: mno jkl ghi def abc 
+	Input Size: 0
+	Output Size: 73
+	Stderr Size: 0
+	Input:
+
+	Output:
+0
+***************** Sorted Strings *****************
+abc
+def
+ghi
+jkl
+mno
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 4 3
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: abc abc abc abc abc abc def ghi jkl mno mno jkl ghi def abc 
+	Input Size: 0
+	Output Size: 113
+	Stderr Size: 0
+	Input:
+
+	Output:
+0
+***************** Sorted Strings *****************
+abc
+abc
+abc
+abc
+abc
+abc
+abc
+def
+def
+ghi
+ghi
+jkl
+jkl
+mno
+mno
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 5 4
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 
+	Input Size: 0
+	Output Size: 53
+	Stderr Size: 0
+	Input:
+
+	Output:
+1
+***************** Sorted Strings *****************
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 6 5
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: abc xyz 
+	Input Size: 0
+	Output Size: 61
+	Stderr Size: 0
+	Input:
+
+	Output:
+1
+***************** Sorted Strings *****************
+abc
+xyz
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 7 6
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: xyz abc 
+	Input Size: 0
+	Output Size: 61
+	Stderr Size: 0
+	Input:
+
+	Output:
+0
+***************** Sorted Strings *****************
+abc
+xyz
+
+	Stderr:
+
+Travessed blocks:
