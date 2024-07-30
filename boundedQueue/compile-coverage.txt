@@ -1,1 +1,0 @@
-gcc boundedQueue.c driver.c -o boundedQueueCov -w -lm -fprofile-arcs -ftest-coverage
