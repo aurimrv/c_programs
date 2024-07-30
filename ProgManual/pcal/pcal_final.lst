@@ -1,0 +1,217 @@
+
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[]
+[]                  PROGRAM TESTE: S_pcal
+[]----------------------------------------------------------
+[]   SOURCE FILE: pcal
+[]
+[]   TOTAL MUTANTS: 6419
+[]
+[]   ANOMALOUS MUTANTS: 0
+[]
+[]   ACTIVE MUTANTS: 6419
+[]
+[]   ALIVE MUTANTS: 275
+[]
+[]   EQUIVALENT MUTANTS: 777
+[]
+[]   MUTATION SCORE: 0.951258
+[]
+[]   OPERATORS:
+[]   u-Cccr            455    u-CCDL             46    u-Ccsr            750    
+[]   u-CRCR            645    u-OAAA             28    u-OAAN            128    
+[]   u-OABA             21    u-OABN             96    u-OAEA              7    
+[]   u-OALN             64    u-OARN            192    u-OASA             14    
+[]   u-OASN             64    u-OCNG             34    u-OEAA            125    
+[]   u-OEBA             75    u-OESA             50    u-Oido             24    
+[]   u-OLAN             70    u-OLBN             42    u-OLLN             14    
+[]   u-OLNG             42    u-OLRN             84    u-OLSN             28    
+[]   u-OODL            191    u-ORAN            205    u-ORBN            123    
+[]   u-ORLN             84    u-ORRN            210    u-ORSN             82    
+[]   u-SMTC              8    u-SMTT              8    u-SMVB              5    
+[]   u-SRSR            130    u-SSDL            136    u-SSWM             11    
+[]   u-STRI             42    u-STRP            136    u-VDTR            387    
+[]   u-VGAR             36    u-VGPR             37    u-VLAR              1    
+[]   u-VLPR             12    u-VLSR           1119    u-VSCR             27    
+[]   u-VTWD            258    u-VVDL             73    
+[]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+
+Teste Case # 1
+	Number of Dead Mutants: 4089
+_________________________________________________
+
+
+Teste Case # 2
+	Number of Dead Mutants: 578
+_________________________________________________
+
+
+Teste Case # 3
+	Number of Dead Mutants: 10
+_________________________________________________
+
+
+Teste Case # 4
+	Number of Dead Mutants: 31
+_________________________________________________
+
+
+Teste Case # 5
+	Number of Dead Mutants: 78
+_________________________________________________
+
+
+Teste Case # 6
+	Number of Dead Mutants: 53
+_________________________________________________
+
+
+Teste Case # 7
+	Number of Dead Mutants: 25
+_________________________________________________
+
+
+Teste Case # 8
+	Number of Dead Mutants: 124
+_________________________________________________
+
+
+Teste Case # 9
+	Number of Dead Mutants: 8
+_________________________________________________
+
+
+Teste Case # 10
+	Number of Dead Mutants: 7
+_________________________________________________
+
+
+Teste Case # 11
+	Number of Dead Mutants: 91
+_________________________________________________
+
+
+Teste Case # 12
+	Number of Dead Mutants: 1
+_________________________________________________
+
+
+Teste Case # 13
+	Number of Dead Mutants: 4
+_________________________________________________
+
+
+Teste Case # 14
+	Number of Dead Mutants: 23
+_________________________________________________
+
+
+Teste Case # 15
+	Number of Dead Mutants: 16
+_________________________________________________
+
+
+Teste Case # 16
+	Number of Dead Mutants: 7
+_________________________________________________
+
+
+Teste Case # 17
+	Number of Dead Mutants: 9
+_________________________________________________
+
+
+Teste Case # 18
+	Number of Dead Mutants: 5
+_________________________________________________
+
+
+Teste Case # 19
+	Number of Dead Mutants: 1
+_________________________________________________
+
+
+Teste Case # 20
+	Number of Dead Mutants: 7
+_________________________________________________
+
+
+Teste Case # 21
+	Number of Dead Mutants: 4
+_________________________________________________
+
+
+Teste Case # 22
+	Number of Dead Mutants: 3
+_________________________________________________
+
+
+Teste Case # 23
+	Number of Dead Mutants: 4
+_________________________________________________
+
+
+Teste Case # 24
+	Number of Dead Mutants: 2
+_________________________________________________
+
+
+Teste Case # 25
+	Number of Dead Mutants: 17
+_________________________________________________
+
+
+Teste Case # 26
+	Number of Dead Mutants: 1
+_________________________________________________
+
+
+Teste Case # 27
+	Number of Dead Mutants: 2
+_________________________________________________
+
+
+Teste Case # 28
+	Number of Dead Mutants: 1
+_________________________________________________
+
+
+Teste Case # 29
+	Number of Dead Mutants: 10
+_________________________________________________
+
+
+Teste Case # 30
+	Number of Dead Mutants: 8
+_________________________________________________
+
+
+Teste Case # 31
+	Number of Dead Mutants: 6
+_________________________________________________
+
+
+Teste Case # 33
+	Number of Dead Mutants: 62
+_________________________________________________
+
+
+Teste Case # 34
+	Number of Dead Mutants: 26
+_________________________________________________
+
+
+Teste Case # 35
+	Number of Dead Mutants: 25
+_________________________________________________
+
+
+Teste Case # 36
+	Number of Dead Mutants: 25
+_________________________________________________
+
+
+Teste Case # 38
+	Number of Dead Mutants: 4
+_________________________________________________

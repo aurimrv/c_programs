@@ -1,0 +1,1 @@
+gcc pcal.c driver.c -o pcal -w -lm
