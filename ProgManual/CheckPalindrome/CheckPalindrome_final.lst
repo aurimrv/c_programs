@@ -1,0 +1,64 @@
+
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[]
+[]                  PROGRAM TESTE: S_CheckPalindrome
+[]----------------------------------------------------------
+[]   SOURCE FILE: CheckPalindrome
+[]
+[]   TOTAL MUTANTS: 166
+[]
+[]   ANOMALOUS MUTANTS: 0
+[]
+[]   ACTIVE MUTANTS: 166
+[]
+[]   ALIVE MUTANTS: 1
+[]
+[]   EQUIVALENT MUTANTS: 20
+[]
+[]   MUTATION SCORE: 0.993151
+[]
+[]   OPERATORS:
+[]   u-Cccr              2    u-Ccsr             12    u-CRCR             30    
+[]   u-OCNG              2    u-Oido              2    u-OODL              4    
+[]   u-ORAN             10    u-ORBN              6    u-ORLN              4    
+[]   u-ORRN             10    u-ORSN              4    u-SMTC              1    
+[]   u-SMTT              1    u-SMVB              1    u-SRSR             14    
+[]   u-SSDL              8    u-STRI              2    u-STRP              8    
+[]   u-SWDD              1    u-VDTR             18    u-VLSR             10    
+[]   u-VTWD             12    u-VVDL              4    
+[]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+
+Teste Case # 1
+	Number of Dead Mutants: 16
+_________________________________________________
+
+
+Teste Case # 2
+	Number of Dead Mutants: 73
+_________________________________________________
+
+
+Teste Case # 3
+	Number of Dead Mutants: 41
+_________________________________________________
+
+
+Teste Case # 4
+	Number of Dead Mutants: 5
+_________________________________________________
+
+
+Teste Case # 5
+	Number of Dead Mutants: 6
+_________________________________________________
+
+
+Teste Case # 6
+	Number of Dead Mutants: 2
+_________________________________________________
+
+
+Teste Case # 7
+	Number of Dead Mutants: 2
+_________________________________________________

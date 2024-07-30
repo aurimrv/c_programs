@@ -1,0 +1,1 @@
+gcc CheckPalindrome.c driver.c -o CheckPalindrome -w -lm
