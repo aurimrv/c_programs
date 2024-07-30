@@ -1,0 +1,1 @@
+gcc checkIt.c driver.c -o checkIt -w -lm
