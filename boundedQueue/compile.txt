@@ -1,0 +1,1 @@
+gcc boundedQueue.c driver.c -o boundedQueue -w -lm
