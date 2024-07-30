@@ -1,0 +1,1 @@
+gcc jday-jdate.c driver.c -o jday-jdate -w -lm

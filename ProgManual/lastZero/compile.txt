@@ -1,0 +1,1 @@
+gcc lastZero.c driver.c -o lastZero -w -lm
