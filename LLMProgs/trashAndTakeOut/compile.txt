@@ -1,0 +1,1 @@
+gcc trashAndTakeOut.c driver.c -o trashAndTakeOut -w -lm
