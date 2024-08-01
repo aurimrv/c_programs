@@ -1,0 +1,1 @@
+gcc InversePermutation.c driver.c -o InversePermutation -w -lm

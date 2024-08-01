@@ -1,0 +1,1 @@
+gcc Heap.c driver.c -o Heap -w -lm

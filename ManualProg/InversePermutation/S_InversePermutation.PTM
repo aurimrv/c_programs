@@ -1,0 +1,10 @@
+PROTEUM - PROGRAM TEST FILE
+Jun-26-24
+V 2.1 - IM
+              
+InversePermutation
+InversePermutation
+gcc InversePermutation.c driver.c -o InversePermutation -w -lm
+Test
+<N O  A N O M A L I E S>
+<A L L   F U N C T I O N S>
