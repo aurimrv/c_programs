@@ -1,0 +1,20 @@
+string1 string2
+string2 string1
+string1 string2 string3
+string1 string2
+string2 string1
+string1 string2 string3
+string3 string2 string1
+string1 string2
+string_muito_longa
+"string_com_caracteres_especiais@!#"
+banana abacaxi uva laranja kiwi
+uva laranja kiwi abacaxi banana
+"" "" ""
+
+maçã banana abacaxi laranja pera
+123 45 6789 0
+anticonstitucionalissimamente abacate boi carro dono escola
+
+
+

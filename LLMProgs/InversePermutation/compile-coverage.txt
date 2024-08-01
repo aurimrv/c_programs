@@ -1,0 +1,1 @@
+gcc InversePermutation.c driver.c -o InversePermutationCov -w -lm -fprofile-arcs -ftest-coverage
