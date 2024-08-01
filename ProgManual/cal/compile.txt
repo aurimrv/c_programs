@@ -1,1 +1,0 @@
-gcc cal.c driver.c -o cal -w -lm

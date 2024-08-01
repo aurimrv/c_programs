@@ -1,1 +1,0 @@
-gcc countPositive.c driver.c -o countPositive -w -lm

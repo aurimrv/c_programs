@@ -1,1 +1,0 @@
-gcc UnixCal.c driver.c  -o UnixCal -w -lm

@@ -1,7 +1,0 @@
-FnNegate 
-FnMinus 
-DifferentSigns 
-abs            
-FnTimes        
-DefineAndRoundFraction
-FnDivide              

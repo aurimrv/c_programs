@@ -1,5 +1,0 @@
-minn        
-sort       
-substr     
-lcp        
-LRS 

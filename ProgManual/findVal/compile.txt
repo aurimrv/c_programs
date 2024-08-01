@@ -1,1 +1,0 @@
-gcc findVal.c driver.c -o findVal -w -lm

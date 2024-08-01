@@ -1,1 +1,0 @@
-gcc findLast.c driver.c -o findLastCov -w -lm -fprofile-arcs -ftest-coverage

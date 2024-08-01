@@ -1,1 +1,0 @@
-gcc driver.c quicksort.c -o quicksort -w -lm

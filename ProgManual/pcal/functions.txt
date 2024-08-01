@@ -1,8 +1,0 @@
-byebye   
-getmmddyy   
-isleapyear  
-jan1  
-dayofweek  
-genweek  
-genmonth         
-dispatch 

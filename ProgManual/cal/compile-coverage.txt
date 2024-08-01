@@ -1,1 +1,0 @@
-gcc cal.c driver.c -o calCov -w -lm -fprofile-arcs -ftest-coverage

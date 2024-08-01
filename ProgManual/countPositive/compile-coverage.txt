@@ -1,1 +1,0 @@
-gcc countPositive.c driver.c -o countPositiveCov -w -lm -fprofile-arcs -ftest-coverage

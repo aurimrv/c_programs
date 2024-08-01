@@ -1,1 +1,0 @@
-gcc printPrimes.c driver.c -o printPrimes -w -lm

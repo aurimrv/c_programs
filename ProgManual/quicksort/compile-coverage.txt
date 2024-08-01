@@ -1,1 +1,0 @@
-gcc driver.c quicksort.c -o quicksortCov -w -lm -fprofile-arcs -ftest-coverage

@@ -1,1 +1,0 @@
-gcc UnixCal.c driver.c  -o UnixCalCov -w -lm -fprofile-arcs -ftest-coverage

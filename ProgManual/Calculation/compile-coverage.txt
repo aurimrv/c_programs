@@ -1,3 +1,0 @@
-gcc Calculation.c driver.c -o CalculationCov -w -lm -fprofile-arcs -ftest-coverage
-
-

@@ -1,1 +1,0 @@
-gcc jday-jdate.c driver.c -o jday-jdateCov -w -lm -fprofile-arcs -ftest-coverage

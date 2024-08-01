@@ -1,1 +1,0 @@
-gcc LRS.c driver.c -o LRSCov -w -lm -fprofile-arcs -ftest-coverage

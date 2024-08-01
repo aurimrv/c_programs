@@ -1,1 +1,0 @@
-gcc lastZero.c driver.c -o lastZeroCov -w -lm -fprofile-arcs -ftest-coverage

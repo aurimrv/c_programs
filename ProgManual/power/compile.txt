@@ -1,1 +1,0 @@
-gcc power.c driver.c -o power -w -lm

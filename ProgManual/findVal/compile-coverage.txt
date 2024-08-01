@@ -1,1 +1,0 @@
-gcc findVal.c driver.c -o findValCov -w -lm -fprofile-arcs -ftest-coverage

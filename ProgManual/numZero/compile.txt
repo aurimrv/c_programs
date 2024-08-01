@@ -1,1 +1,0 @@
-gcc numZero.c driver.c -o numZero -w -lm

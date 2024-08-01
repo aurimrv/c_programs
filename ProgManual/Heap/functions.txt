@@ -1,7 +1,0 @@
-less01  
-exch    
-less02  
-sink    
-sort    
-isSorted
-show

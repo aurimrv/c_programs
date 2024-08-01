@@ -1,1 +1,0 @@
-gcc MergeSort.c driver.c -o MergeSortCov -w -lm -fprofile-arcs -ftest-coverage

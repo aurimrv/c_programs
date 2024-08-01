@@ -1,1 +1,0 @@
-gcc Calculation.c driver.c -o Calculation -w -lm
