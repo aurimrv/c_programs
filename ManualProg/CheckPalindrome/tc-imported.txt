@@ -1,0 +1,126 @@
+
+Teste Case # 1 0
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: a 
+	Input Size: 0
+	Output Size: 17
+	Stderr Size: 0
+	Input:
+
+	Output:
+a is a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 2 1
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: aa 
+	Input Size: 0
+	Output Size: 18
+	Stderr Size: 0
+	Input:
+
+	Output:
+aa is a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 3 2
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: ab 
+	Input Size: 0
+	Output Size: 22
+	Stderr Size: 0
+	Input:
+
+	Output:
+ab is not a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 4 3
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: aba 
+	Input Size: 0
+	Output Size: 19
+	Stderr Size: 0
+	Input:
+
+	Output:
+aba is a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 5 4
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: abca 
+	Input Size: 0
+	Output Size: 24
+	Stderr Size: 0
+	Input:
+
+	Output:
+abca is not a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 6 5
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: abba 
+	Input Size: 0
+	Output Size: 20
+	Stderr Size: 0
+	Input:
+
+	Output:
+abba is a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 7 6
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: BBa!! 
+	Input Size: 0
+	Output Size: 25
+	Stderr Size: 0
+	Input:
+
+	Output:
+BBa!! is not a palindrome
+	Stderr:
+
+Travessed blocks:
