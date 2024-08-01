@@ -1,0 +1,952 @@
+
+Teste Case # 1 0
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 5 sec 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+11:57 Jan 21
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 2 1
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: 1781872 10 min 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+12:07 Jan 21
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 3 2
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 3 hour 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+14:57 Jan 21
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 4 3
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 2 day 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+11:57 Jan 23
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 5 4
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 1 week 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+11:57 Jan 28
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 6 5
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 6 mon 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+11:57 Jul 21
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 7 6
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 3 year 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+11:57 Jan 21
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 8 7
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 1 day 2 hour 30 min 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+14:27 Jan 22
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 9 8
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: 1781872 -1 day -3 hour 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+08:57 Jan 20
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 10 9
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 5 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 20
+	Input:
+
+	Output:
+
+	Stderr:
+date+: missing unit
+
+Travessed blocks:
+
+Teste Case # 11 10
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 .8 hour +3 min 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+12:48 Jan 21
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 12 11
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 03 sec %T %S 
+	Input Size: 0
+	Output Size: 12
+	Stderr Size: 0
+	Input:
+
+	Output:
+11:57:55 55
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 13 12
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 10 hour 30 min %H %M 
+	Input Size: 0
+	Output Size: 6
+	Stderr Size: 0
+	Input:
+
+	Output:
+22 27
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 14 13
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 10 day 3 mon 2024 year %d %h %y 
+	Input Size: 0
+	Output Size: 12
+	Stderr Size: 0
+	Input:
+
+	Output:
+31 Apr 2094
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 15 14
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 .8 hour %T %n %S 
+	Input Size: 0
+	Output Size: 14
+	Stderr Size: 0
+	Input:
+
+	Output:
+12:45:52 
+ 52
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 16 15
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 .8 hour %T %t %S 
+	Input Size: 0
+	Output Size: 14
+	Stderr Size: 0
+	Input:
+
+	Output:
+12:45:52 	 52
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 17 16
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 .8 hour %T %a 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+12:45:52 Wed
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 18 17
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 10 year 2 mon %D 
+	Input Size: 0
+	Output Size: 9
+	Stderr Size: 0
+	Input:
+
+	Output:
+03/21/80
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 19 18
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 .8 hour %j 
+	Input Size: 0
+	Output Size: 3
+	Stderr Size: 0
+	Input:
+
+	Output:
+20
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 20 19
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 0 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+21:00 Dec 31
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 21 20
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 1000 year 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+12:14 Jan 21
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 22 21
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 1 year 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+11:57 Jan 21
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 23 22
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1000 sec 
+	Input Size: 0
+	Output Size: 4
+	Stderr Size: 0
+	Input:
+
+	Output:
+sec
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 24 23
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 23 hour 59 min 59 sec 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+11:57 Jan 22
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 25 24
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 2147483647 1 sec 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+00:14 Jan 19
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 26 25
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 .8 hour %Z 
+	Input Size: 0
+	Output Size: 8
+	Stderr Size: 0
+	Input:
+
+	Output:
+1784752
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 27 26
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 .8 hour %m 
+	Input Size: 0
+	Output Size: 3
+	Stderr Size: 0
+	Input:
+
+	Output:
+01
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 28 27
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 .8 hour %w 
+	Input Size: 0
+	Output Size: 2
+	Stderr Size: 0
+	Input:
+
+	Output:
+3
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 29 28
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1781872 .8 hour %Q 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 33
+	Input:
+
+	Output:
+
+	Stderr:
+date+: Bad format character: 'Q'
+
+Travessed blocks:
+
+Teste Case # 30 29
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: -1781872 5 sec 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+06:02 Dec 11
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 31 30
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1781872 5 sec 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+06:02 Dec 11
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 32 31
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: -1781872 10 min 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+06:12 Dec 11
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 33 32
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1781872 3 hour 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+09:02 Dec 11
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 34 33
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1781872 2 day 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+06:02 Dec 13
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 35 34
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1781872 1 week 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+06:02 Dec 18
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 36 35
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: -1781872 6 mon 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+06:02 Fri 11
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 37 36
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1781872 3 year 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+06:02 Dec 11
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 38 37
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1781872 1 day 2 hour 30 min 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+08:32 Dec 12
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 39 38
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: -1781872 -1 day -3 hour 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+03:02 Dec 10
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 40 39
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1781872 5 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 20
+	Input:
+
+	Output:
+
+	Stderr:
+date+: missing unit
+
+Travessed blocks:
+
+Teste Case # 41 40
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1781872 .8 hour +3 min 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+06:53 Dec 11
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 42 41
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1781872 03 sec %T %S 
+	Input Size: 0
+	Output Size: 12
+	Stderr Size: 0
+	Input:
+
+	Output:
+06:02:11 11
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 43 42
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1781872 10 hour 30 min %H %M 
+	Input Size: 0
+	Output Size: 6
+	Stderr Size: 0
+	Input:
+
+	Output:
+16 32
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 44 43
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1781872 10 day 3 mon 2024 year %d %h %y 
+	Input Size: 0
+	Output Size: 12
+	Stderr Size: 0
+	Input:
+
+	Output:
+21 Tue 2093
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 45 44
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1781872 .8 hour %T %n %S 
+	Input Size: 0
+	Output Size: 14
+	Stderr Size: 0
+	Input:
+
+	Output:
+06:50:08 
+ 08
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 46 45
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: -1781872 .8 hour %T %t %S 
+	Input Size: 0
+	Output Size: 14
+	Stderr Size: 0
+	Input:
+
+	Output:
+06:50:08 	 08
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 47 46
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1781872 .8 hour %T %a 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+06:50:08 Thu
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 48 47
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1781872 10 year 2 mon %D 
+	Input Size: 0
+	Output Size: 9
+	Stderr Size: 0
+	Input:
+
+	Output:
+14/11/79
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 49 48
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1781872 .8 hour %j 
+	Input Size: 0
+	Output Size: 4
+	Stderr Size: 0
+	Input:
+
+	Output:
+344
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 50 49
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1781872 0 hour 
+	Input Size: 0
+	Output Size: 13
+	Stderr Size: 0
+	Input:
+
+	Output:
+06:02 Dec 11
+
+	Stderr:
+
+Travessed blocks:

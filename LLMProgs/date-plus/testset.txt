@@ -1,0 +1,50 @@
+1781872 5 sec
+1781872 10 min
+1781872 3 hour
+1781872 2 day
+1781872 1 week
+1781872 6 mon
+1781872 3 year
+1781872 1 day 2 hour 30 min
+1781872 -1 day -3 hour
+1781872 5
+1781872 .8 hour +3 min
+1781872 03 sec %T %S
+1781872 10 hour 30 min %H %M
+1781872 10 day 3 mon 2024 year %d %h %y
+1781872 .8 hour %T %n %S
+1781872 .8 hour %T %t %S
+1781872 .8 hour %T %a
+1781872 10 year 2 mon %D
+1781872 .8 hour %j
+0
+1781872 1000 year
+1781872 1 year
+-1000 sec
+1781872 23 hour 59 min 59 sec
+2147483647 1 sec
+1781872 .8 hour %Z
+1781872 .8 hour %m
+1781872 .8 hour %w
+1781872 .8 hour %Q
+-1781872 5 sec
+-1781872 5 sec
+-1781872 10 min
+-1781872 3 hour
+-1781872 2 day
+-1781872 1 week
+-1781872 6 mon
+-1781872 3 year
+-1781872 1 day 2 hour 30 min
+-1781872 -1 day -3 hour
+-1781872 5
+-1781872 .8 hour +3 min
+-1781872 03 sec %T %S
+-1781872 10 hour 30 min %H %M
+-1781872 10 day 3 mon 2024 year %d %h %y
+-1781872 .8 hour %T %n %S
+-1781872 .8 hour %T %t %S
+-1781872 .8 hour %T %a
+-1781872 10 year 2 mon %D
+-1781872 .8 hour %j
+-1781872 0 hour
