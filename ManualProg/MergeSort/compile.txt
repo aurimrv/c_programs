@@ -1,0 +1,1 @@
+gcc MergeSort.c driver.c -o MergeSort -w -lm
