@@ -1,0 +1,209 @@
+
+Teste Case # 1 0
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: 
+	Input Size: 0
+	Output Size: 57
+	Stderr Size: 0
+	Input:
+
+	Output:
+Number of elements that are either odd or positive is: 0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 2 1
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: -3 -2 0 1 4 
+	Input Size: 0
+	Output Size: 57
+	Stderr Size: 0
+	Input:
+
+	Output:
+Number of elements that are either odd or positive is: 3
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 3 2
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: -5 -8 -2 -10 
+	Input Size: 0
+	Output Size: 57
+	Stderr Size: 0
+	Input:
+
+	Output:
+Number of elements that are either odd or positive is: 1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 4 3
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: 1 
+	Input Size: 0
+	Output Size: 57
+	Stderr Size: 0
+	Input:
+
+	Output:
+Number of elements that are either odd or positive is: 1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 5 4
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 0
+	Parameters: -1 
+	Input Size: 0
+	Output Size: 57
+	Stderr Size: 0
+	Input:
+
+	Output:
+Number of elements that are either odd or positive is: 1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 6 5
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: 0 
+	Input Size: 0
+	Output Size: 57
+	Stderr Size: 0
+	Input:
+
+	Output:
+Number of elements that are either odd or positive is: 0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 7 6
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: -1000 
+	Input Size: 0
+	Output Size: 57
+	Stderr Size: 0
+	Input:
+
+	Output:
+Number of elements that are either odd or positive is: 0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 8 7
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: -3.5 -2.8 0.0 1.2 4.7 
+	Input Size: 0
+	Output Size: 57
+	Stderr Size: 0
+	Input:
+
+	Output:
+Number of elements that are either odd or positive is: 3
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 9 8
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: a b c 
+	Input Size: 0
+	Output Size: 57
+	Stderr Size: 0
+	Input:
+
+	Output:
+Number of elements that are either odd or positive is: 0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 10 9
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: 1000000000 2000000000 3000000000 
+	Input Size: 0
+	Output Size: 57
+	Stderr Size: 0
+	Input:
+
+	Output:
+Number of elements that are either odd or positive is: 2
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 11 10
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 0
+	Parameters: 
+	Input Size: 0
+	Output Size: 57
+	Stderr Size: 0
+	Input:
+
+	Output:
+Number of elements that are either odd or positive is: 0
+
+	Stderr:
+
+Travessed blocks:
