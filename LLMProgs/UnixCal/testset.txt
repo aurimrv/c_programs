@@ -1,0 +1,46 @@
+abc
+3 abc
+abc 3
+9 1752
+1752
+- 2024
+- 2024
+3 2024
+3 2024
+6 2024
+6 2024
+12 2024
+12 2024
+2 2024
+2 2024
+2 2023
+2 2023
+9 1751
+9 1753
+"              "
+"Test String"
+"Mix  String   "
+"12345678901234567890123456789012345678901234567890123456789012345678901234567890"
+!@#$%^&*()_+-=[]{}|;':\",./<>?
+"This is a long string to test the behavior of the function with a large input size."
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+1 2024
+1 2024
+6 2024
+6 2024
+12 2024
+12 2024
+2 2024
+2 2024
+2 2023
+2 2023
+9 1751
+9 1753
+1750
+1800
+1900
+2000
+1751
+1753
+
