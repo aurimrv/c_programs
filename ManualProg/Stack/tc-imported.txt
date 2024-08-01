@@ -1,0 +1,199 @@
+
+Teste Case # 1 0
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 10
+	Parameters: 0 
+	Input Size: 0
+	Output Size: 18
+	Stderr Size: 0
+	Input:
+
+	Output:
+1
+Bottom - up: 0 
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 2 1
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 10
+	Parameters: 1 
+	Input Size: 0
+	Output Size: 31
+	Stderr Size: 0
+	Input:
+
+	Output:
+Stack is empty
+1
+Bottom - up: 
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 3 2
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 10
+	Parameters: 2 
+	Input Size: 0
+	Output Size: 38
+	Stderr Size: 0
+	Input:
+
+	Output:
+-1
+0
+Bottom - up: 
+-1
+Bottom - up: 0 
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 4 3
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 10
+	Parameters: 3 
+	Input Size: 0
+	Output Size: 18
+	Stderr Size: 0
+	Input:
+
+	Output:
+Bottom - up: 0 1 
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 5 4
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 4 
+	Input Size: 0
+	Output Size: 0
+	Stderr Size: 0
+	Input:
+
+	Output:
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 6 5
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 10
+	Parameters: 5 
+	Input Size: 0
+	Output Size: 35
+	Stderr Size: 0
+	Input:
+
+	Output:
+Bottom - up: 0 -1 1 2 3 4 5 6 7 8 
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 7 6
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 10
+	Parameters: 6 
+	Input Size: 0
+	Output Size: 35
+	Stderr Size: 0
+	Input:
+
+	Output:
+0
+Bottom - up: -1 1 2 3 4 5 6 7 8 
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 8 7
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 10
+	Parameters: 7 
+	Input Size: 0
+	Output Size: 28
+	Stderr Size: 0
+	Input:
+
+	Output:
+2
+Bottom - up: 3 4 5 6 7 8 
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 9 8
+Label:	
+	ENABLED
+	Exec. Time (CPU): 31
+	Exec. Time (total): 32
+	Return Code: 10
+	Parameters: 8 
+	Input Size: 0
+	Output Size: 34
+	Stderr Size: 0
+	Input:
+
+	Output:
+Bottom - up: 0 1 2 3 4 5 6 7 8 9 
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 10 9
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 10
+	Parameters: 9 
+	Input Size: 0
+	Output Size: 24
+	Stderr Size: 0
+	Input:
+
+	Output:
+2
+Bottom - up: 5 6 7 8 
+
+	Stderr:
+
+Travessed blocks:
