@@ -1,0 +1,252 @@
+
+Teste Case # 1 0
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: a 
+	Input Size: 0
+	Output Size: 17
+	Stderr Size: 0
+	Input:
+
+	Output:
+a is a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 2 1
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: aa 
+	Input Size: 0
+	Output Size: 18
+	Stderr Size: 0
+	Input:
+
+	Output:
+aa is a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 3 2
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: ab 
+	Input Size: 0
+	Output Size: 22
+	Stderr Size: 0
+	Input:
+
+	Output:
+ab is not a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 4 3
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: racecar 
+	Input Size: 0
+	Output Size: 23
+	Stderr Size: 0
+	Input:
+
+	Output:
+racecar is a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 5 4
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: radar 
+	Input Size: 0
+	Output Size: 21
+	Stderr Size: 0
+	Input:
+
+	Output:
+radar is a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 6 5
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: hello 
+	Input Size: 0
+	Output Size: 25
+	Stderr Size: 0
+	Input:
+
+	Output:
+hello is not a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 7 6
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: level 
+	Input Size: 0
+	Output Size: 21
+	Stderr Size: 0
+	Input:
+
+	Output:
+level is a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 8 7
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: deified 
+	Input Size: 0
+	Output Size: 23
+	Stderr Size: 0
+	Input:
+
+	Output:
+deified is a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 9 8
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 12321 
+	Input Size: 0
+	Output Size: 21
+	Stderr Size: 0
+	Input:
+
+	Output:
+12321 is a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 10 9
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: 12345 
+	Input Size: 0
+	Output Size: 25
+	Stderr Size: 0
+	Input:
+
+	Output:
+12345 is not a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 11 10
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: !@#$ 
+	Input Size: 0
+	Output Size: 24
+	Stderr Size: 0
+	Input:
+
+	Output:
+!@#$ is not a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 12 11
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: CheckPalindrome CheckPalindrome.c CheckPalindromeCov CheckPalindromeCov-CheckPalindrome.gcda CheckPalindromeCov-CheckPalindrome.gcno CheckPalindromeCov-driver.gcno CheckPalindrome_final.lst CheckPalindrome_initial.lst CheckPalindrome_inst S_CheckPalindrome.FTB S_CheckPalindrome.IND S_CheckPalindrome.IOL S_CheckPalindrome.MUT S_CheckPalindrome.PTM S_CheckPalindrome.STDERR.TMP S_CheckPalindrome.STDIN.TMP S_CheckPalindrome.STDOUT.TMP S_CheckPalindrome.TCS __CheckPalindrome.c __CheckPalindrome.cgr __CheckPalindrome.fun __CheckPalindrome.gfc __CheckPalindrome.nli __CheckPalindrome_inst.c __CheckPalindrome_pp.c compile-coverage.txt compile.txt coverage.info coverage_report driver.c equivalent_CheckPalindrome.txt functions.txt minimal_CheckPalindrome.txt tc-imported.txt testset.txt 
+	Input Size: 0
+	Output Size: 35
+	Stderr Size: 0
+	Input:
+
+	Output:
+CheckPalindrome is not a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 13 12
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: +=- 
+	Input Size: 0
+	Output Size: 23
+	Stderr Size: 0
+	Input:
+
+	Output:
++=- is not a palindrome
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 14 13
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -+- 
+	Input Size: 0
+	Output Size: 19
+	Stderr Size: 0
+	Input:
+
+	Output:
+-+- is a palindrome
+	Stderr:
+
+Travessed blocks:
