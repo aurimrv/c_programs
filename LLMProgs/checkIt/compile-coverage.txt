@@ -1,0 +1,1 @@
+gcc checkIt.c driver.c -o checkItCov -w -lm -fprofile-arcs -ftest-coverage

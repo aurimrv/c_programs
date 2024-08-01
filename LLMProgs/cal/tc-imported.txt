@@ -1,0 +1,266 @@
+
+Teste Case # 1 0
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 16
+	Parameters: 2 15 4 10 2024 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+Result is: 55  
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 2 1
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 16
+	Parameters: 11 1 12 25 2022 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+Result is: 54  
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 3 2
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 17
+	Parameters: 1 1 12 31 2024 
+	Input Size: 0
+	Output Size: 17
+	Stderr Size: 0
+	Input:
+
+	Output:
+Result is: 365  
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 4 3
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 15
+	Parameters: 1 31 2 1 2024 
+	Input Size: 0
+	Output Size: 15
+	Stderr Size: 0
+	Input:
+
+	Output:
+Result is: 1  
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 5 4
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 16
+	Parameters: 0 15 4 10 2024 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+Result is: 86  
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 6 5
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 16
+	Parameters: 2 30 4 10 2024 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+Result is: 40  
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 7 6
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 16
+	Parameters: 2 15 4 10 0 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+Result is: 55  
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 8 7
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 16
+	Parameters: 2 15 4 10 10001 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+Result is: 54  
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 9 8
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 16
+	Parameters: 2 15 3 15 2020 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+Result is: 29  
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 10 9
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 16
+	Parameters: 2 15 3 15 2021 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+Result is: 28  
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 11 10
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 15
+	Parameters: 12 31 1 1 2020 
+	Input Size: 0
+	Output Size: 15
+	Stderr Size: 0
+	Input:
+
+	Output:
+Result is: 1  
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 12 11
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 15
+	Parameters: 2 15 2 20 2024 
+	Input Size: 0
+	Output Size: 15
+	Stderr Size: 0
+	Input:
+
+	Output:
+Result is: 5  
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 13 12
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 16
+	Parameters: 6 10 6 25 2022 
+	Input Size: 0
+	Output Size: 16
+	Stderr Size: 0
+	Input:
+
+	Output:
+Result is: 15  
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 14 13
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 15
+	Parameters: 10 5 10 10 2023 
+	Input Size: 0
+	Output Size: 15
+	Stderr Size: 0
+	Input:
+
+	Output:
+Result is: 5  
+
+	Stderr:
+
+Travessed blocks:
