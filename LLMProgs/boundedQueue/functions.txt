@@ -1,6 +1,0 @@
-createQueue        
-enqueue        
-isFull         
-isEmpty        
-dequeue        
-printBoundedQueue 
