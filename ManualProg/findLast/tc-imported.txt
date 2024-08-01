@@ -1,0 +1,114 @@
+
+Teste Case # 1 0
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1 0 
+	Input Size: 0
+	Output Size: 45
+	Stderr Size: 0
+	Input:
+
+	Output:
+The index of the last element equals 1 is -1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 2 1
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 11
+	Return Code: 1
+	Parameters: 1 1 
+	Input Size: 0
+	Output Size: 44
+	Stderr Size: 0
+	Input:
+
+	Output:
+The index of the last element equals 1 is 0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 3 2
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: -1 0 -1 1 
+	Input Size: 0
+	Output Size: 45
+	Stderr Size: 0
+	Input:
+
+	Output:
+The index of the last element equals -1 is 1
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 4 3
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1 0 1 1 
+	Input Size: 0
+	Output Size: 44
+	Stderr Size: 0
+	Input:
+
+	Output:
+The index of the last element equals 1 is 2
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 5 4
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 1 1 0 0 0 0 0 0 
+	Input Size: 0
+	Output Size: 44
+	Stderr Size: 0
+	Input:
+
+	Output:
+The index of the last element equals 1 is 0
+
+	Stderr:
+
+Travessed blocks:
+
+Teste Case # 6 5
+Label:	
+	ENABLED
+	Exec. Time (CPU): 10
+	Exec. Time (total): 10
+	Return Code: 1
+	Parameters: 0 1 1 1 
+	Input Size: 0
+	Output Size: 45
+	Stderr Size: 0
+	Input:
+
+	Output:
+The index of the last element equals 0 is -1
+
+	Stderr:
+
+Travessed blocks:
