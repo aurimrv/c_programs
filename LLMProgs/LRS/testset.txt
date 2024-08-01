@@ -1,0 +1,14 @@
+
+"aaaaaaaa"
+""
+"abcdefg"
+"abc def ghi"
+"banana"
+"the quick brown fox jumps over the lazy dog"
+"aabbcc @#$%^&*()"
+"Texto de tamanho considerável com padrões repetidos conhecidos."
+"     "
+"aaaaaaaaa"
+"banana     apple    orange"
+"     banana     "
+
