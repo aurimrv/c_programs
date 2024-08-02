@@ -1,5 +1,7 @@
 # Repository of C Programs and Script
 
+This repository contains a set of C programs used for experimentation and scripts used to call software testing tools (gcov, lcov, and Proteum/IM). The Proteum/IM binary Linux version used in this experiment is also available in the tools subdirectory. All other tools are regular Linux command-line tools and can be installed via the official package repository.
+
 ## Pre-requirements
 
 	sudo apt install lcov gcovr
@@ -7,7 +9,7 @@
 ## Repository organization
 
 ```
-c_sbqs2024/
+repo/
 ├── LICENSE
 ├── LLMProgs
 │ ├── boundedQueue
@@ -24,8 +26,9 @@ c_sbqs2024/
 │ ├── InversePermutation
 │ ├── jday-jdate
 │ ├── lastZero
-│ ├── LLMProgs-summary.csv
-│ ├── LLMProgs-summary.ods
+│ ├── LLMProgs.log              % Execution log 
+│ ├── LLMProgs-summary.csv      % Summmary report
+│ ├── LLMProgs-summary.ods      % Summmary report
 │ ├── LRS
 │ ├── MergeSort
 │ ├── numZero
@@ -41,7 +44,6 @@ c_sbqs2024/
 │ ├── sum
 │ ├── trashAndTakeOut
 │ └── UnixCal
-├── LLMProgs.out
 ├── ManualProg
 │ ├── boundedQueue
 │ ├── cal
@@ -58,8 +60,9 @@ c_sbqs2024/
 │ ├── jday-jdate
 │ ├── lastZero
 │ ├── LRS
-│ ├── ManualProg-summary.csv
-│ ├── ManualProg-summary.ods
+│ ├── ManualProg.log              % Execution log
+│ ├── ManualProg-summary.csv      % Summmary report
+│ ├── ManualProg-summary.ods      % Summmary report
 │ ├── MergeSort
 │ ├── numZero
 │ ├── oddOrPos
@@ -74,15 +77,16 @@ c_sbqs2024/
 │ ├── sum
 │ ├── trashAndTakeOut
 │ └── UnixCal
-├── ManualProg.out
-├── README.md                          % This file
-└── scripts
-    ├── clean-coverage-files.sh
-    ├── coverage_per_function.sh
-    ├── manual_check-equiv.sh
-    ├── mark_check-equiv.sh
-    ├── run_cover_llm.sh
-    ├── run_cover_manual.sh
-    └── summary_report.sh
+├── README.md                     % This file
+├── scripts
+│ ├── clean-coverage-files.sh
+│ ├── coverage_per_function.sh
+│ ├── manual_check-equiv.sh
+│ ├── mark_check-equiv.sh
+│ ├── run_cover_llm.sh
+│ ├── run_cover_manual.sh
+│ └── summary_report.sh
+└── tools
+    └── ProteumIM64.tgz           % Mutation testing tool for C
 
 ```
