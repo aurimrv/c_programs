@@ -22,7 +22,7 @@ Teste Case # 2 1
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 1
 	Parameters: -3 -2 -1 0 1 2 3 4 5 6 7 8 9 
 	Input Size: 0
@@ -79,7 +79,7 @@ Teste Case # 5 4
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 1
 	Parameters: - 2 1 2 3 4 5 6 7 8 9 0 
 	Input Size: 0
@@ -98,7 +98,7 @@ Teste Case # 6 5
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 1
 	Parameters: - 3 0 1 2 3 4 5 6 7 8 9 
 	Input Size: 0
@@ -116,7 +116,7 @@ Travessed blocks:
 Teste Case # 7 6
 Label:	
 	ENABLED
-	Exec. Time (CPU): 10
+	Exec. Time (CPU): 11
 	Exec. Time (total): 10
 	Return Code: 1
 	Parameters: - 3 0 
@@ -154,8 +154,8 @@ Travessed blocks:
 Teste Case # 9 8
 Label:	
 	ENABLED
-	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (CPU): 11
+	Exec. Time (total): 11
 	Return Code: 1
 	Parameters: - 5 0 1 2 3 4 -5 6 0 8 9 
 	Input Size: 0
@@ -173,7 +173,7 @@ Travessed blocks:
 Teste Case # 10 9
 Label:	
 	ENABLED
-	Exec. Time (CPU): 10
+	Exec. Time (CPU): 11
 	Exec. Time (total): 10
 	Return Code: 1
 	Parameters: 3 -2 1 10 1 234 56 7 8 9 
@@ -192,8 +192,8 @@ Travessed blocks:
 Teste Case # 11 10
 Label:	
 	ENABLED
-	Exec. Time (CPU): 10
-	Exec. Time (total): 11
+	Exec. Time (CPU): 11
+	Exec. Time (total): 10
 	Return Code: 1
 	Parameters: 9 8 7 6 5 4 3 2 1 0 -1 
 	Input Size: 0
@@ -230,7 +230,7 @@ Travessed blocks:
 Teste Case # 13 12
 Label:	
 	ENABLED
-	Exec. Time (CPU): 10
+	Exec. Time (CPU): 11
 	Exec. Time (total): 10
 	Return Code: 1
 	Parameters: - 8 
@@ -269,7 +269,7 @@ Teste Case # 15 14
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 1
 	Parameters: - 10 9 0 2 48 3 
 	Input Size: 0

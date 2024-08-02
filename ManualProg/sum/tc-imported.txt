@@ -60,7 +60,7 @@ Teste Case # 4 3
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 0
 	Parameters: 1 
 	Input Size: 0

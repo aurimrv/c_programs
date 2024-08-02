@@ -13,7 +13,7 @@
 []
 []   ALIVE MUTANTS: 0
 []
-[]   EQUIVALENT MUTANTS: 64
+[]   EQUIVALENT MUTANTS: 78
 []
 []   MUTATION SCORE: 1.000000
 []
@@ -34,25 +34,20 @@
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 
 Teste Case # 1
-	Number of Dead Mutants: 199
+	Number of Dead Mutants: 192
 _________________________________________________
 
 
 Teste Case # 2
-	Number of Dead Mutants: 443
+	Number of Dead Mutants: 437
 _________________________________________________
 
 
 Teste Case # 4
-	Number of Dead Mutants: 6
+	Number of Dead Mutants: 7
 _________________________________________________
 
 
 Teste Case # 5
-	Number of Dead Mutants: 2
-_________________________________________________
-
-
-Teste Case # 6
 	Number of Dead Mutants: 1
 _________________________________________________

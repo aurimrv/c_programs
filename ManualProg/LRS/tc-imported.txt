@@ -3,7 +3,7 @@ Teste Case # 1 0
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 11
+	Exec. Time (total): 10
 	Return Code: 9
 	Parameters: 
 	Input Size: 0
@@ -116,8 +116,8 @@ Travessed blocks:
 Teste Case # 7 6
 Label:	
 	ENABLED
-	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (CPU): 11
+	Exec. Time (total): 11
 	Return Code: 13
 	Parameters: BBB!!!!! 
 	Input Size: 0

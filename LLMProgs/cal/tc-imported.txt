@@ -3,7 +3,7 @@ Teste Case # 1 0
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 11
+	Exec. Time (total): 10
 	Return Code: 16
 	Parameters: 2 15 4 10 2024 
 	Input Size: 0
@@ -79,7 +79,7 @@ Teste Case # 5 4
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 16
 	Parameters: 0 15 4 10 2024 
 	Input Size: 0
@@ -117,7 +117,7 @@ Teste Case # 7 6
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 16
 	Parameters: 2 15 4 10 0 
 	Input Size: 0
@@ -174,7 +174,7 @@ Teste Case # 10 9
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 16
 	Parameters: 2 15 3 15 2021 
 	Input Size: 0
@@ -193,7 +193,7 @@ Teste Case # 11 10
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 11
+	Exec. Time (total): 10
 	Return Code: 15
 	Parameters: 12 31 1 1 2020 
 	Input Size: 0
@@ -231,7 +231,7 @@ Teste Case # 13 12
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 16
 	Parameters: 6 10 6 25 2022 
 	Input Size: 0

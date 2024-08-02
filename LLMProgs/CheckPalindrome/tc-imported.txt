@@ -21,7 +21,7 @@ Teste Case # 2 1
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 1
 	Parameters: aa 
 	Input Size: 0
@@ -39,7 +39,7 @@ Teste Case # 3 2
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 1
 	Parameters: ab 
 	Input Size: 0
@@ -111,7 +111,7 @@ Teste Case # 7 6
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 1
 	Parameters: level 
 	Input Size: 0
@@ -129,7 +129,7 @@ Teste Case # 8 7
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 1
 	Parameters: deified 
 	Input Size: 0
@@ -165,7 +165,7 @@ Teste Case # 10 9
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 11
+	Exec. Time (total): 10
 	Return Code: 1
 	Parameters: 12345 
 	Input Size: 0
@@ -203,7 +203,7 @@ Label:
 	Exec. Time (CPU): 10
 	Exec. Time (total): 10
 	Return Code: 1
-	Parameters: CheckPalindrome CheckPalindrome.c CheckPalindromeCov CheckPalindromeCov-CheckPalindrome.gcda CheckPalindromeCov-CheckPalindrome.gcno CheckPalindromeCov-driver.gcno CheckPalindrome_final.lst CheckPalindrome_initial.lst CheckPalindrome_inst S_CheckPalindrome.FTB S_CheckPalindrome.IND S_CheckPalindrome.IOL S_CheckPalindrome.MUT S_CheckPalindrome.PTM S_CheckPalindrome.STDERR.TMP S_CheckPalindrome.STDIN.TMP S_CheckPalindrome.STDOUT.TMP S_CheckPalindrome.TCS __CheckPalindrome.c __CheckPalindrome.cgr __CheckPalindrome.fun __CheckPalindrome.gfc __CheckPalindrome.nli __CheckPalindrome_inst.c __CheckPalindrome_pp.c compile-coverage.txt compile.txt coverage.info coverage_report driver.c equivalent_CheckPalindrome.txt functions.txt minimal_CheckPalindrome.txt tc-imported.txt testset.txt 
+	Parameters: CheckPalindrome CheckPalindrome.c CheckPalindromeCov CheckPalindromeCov-CheckPalindrome.gcda CheckPalindromeCov-CheckPalindrome.gcno CheckPalindromeCov-driver.gcno CheckPalindrome_final.lst CheckPalindrome_initial.lst CheckPalindrome_inst S_CheckPalindrome.FTB S_CheckPalindrome.IND S_CheckPalindrome.IOL S_CheckPalindrome.MUT S_CheckPalindrome.PTM S_CheckPalindrome.STDERR.TMP S_CheckPalindrome.STDIN.TMP S_CheckPalindrome.STDOUT.TMP S_CheckPalindrome.TCS __CheckPalindrome.c __CheckPalindrome.cgr __CheckPalindrome.fun __CheckPalindrome.gfc __CheckPalindrome.nli __CheckPalindrome_inst.c __CheckPalindrome_pp.c compile-coverage.txt compile.txt driver.c equivalent_CheckPalindrome.txt functions.txt minimal_CheckPalindrome.txt tc-imported.txt testset.txt 
 	Input Size: 0
 	Output Size: 35
 	Stderr Size: 0
@@ -219,7 +219,7 @@ Teste Case # 13 12
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 1
 	Parameters: +=- 
 	Input Size: 0

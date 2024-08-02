@@ -92,7 +92,7 @@ Teste Case # 5 4
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 11
+	Exec. Time (total): 10
 	Return Code: 1
 	Parameters: string2 string1 
 	Input Size: 0
@@ -114,7 +114,7 @@ Teste Case # 6 5
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 11
+	Exec. Time (total): 10
 	Return Code: 1
 	Parameters: string1 string2 string3 
 	Input Size: 0
@@ -137,7 +137,7 @@ Teste Case # 7 6
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 1
 	Parameters: string3 string2 string1 
 	Input Size: 0
@@ -160,7 +160,7 @@ Teste Case # 8 7
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 1
 	Parameters: string1 string2 
 	Input Size: 0
@@ -203,7 +203,7 @@ Teste Case # 10 9
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 11
+	Exec. Time (total): 10
 	Return Code: 1
 	Parameters: string_com_caracteres_especiais@!# 
 	Input Size: 0
@@ -249,7 +249,7 @@ Teste Case # 12 11
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 1
 	Parameters: uva laranja kiwi abacaxi banana 
 	Input Size: 0
@@ -274,7 +274,7 @@ Teste Case # 13 12
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 1
 	Parameters: 
 	Input Size: 0
@@ -389,7 +389,7 @@ Teste Case # 18 17
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 11
+	Exec. Time (total): 10
 	Return Code: 1
 	Parameters: 
 	Input Size: 0

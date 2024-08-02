@@ -11,11 +11,11 @@
 []
 []   ACTIVE MUTANTS: 1132
 []
-[]   ALIVE MUTANTS: 0
+[]   ALIVE MUTANTS: 21
 []
-[]   EQUIVALENT MUTANTS: 311
+[]   EQUIVALENT MUTANTS: 290
 []
-[]   MUTATION SCORE: 1.000000
+[]   MUTATION SCORE: 0.975059
 []
 []   OPERATORS:
 []   u-Cccr             10    u-CCDL              6    u-Ccsr             62    
@@ -33,25 +33,30 @@
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 
 Teste Case # 1
-	Number of Dead Mutants: 67
+	Number of Dead Mutants: 64
 _________________________________________________
 
 
 Teste Case # 2
-	Number of Dead Mutants: 520
+	Number of Dead Mutants: 530
+_________________________________________________
+
+
+Teste Case # 3
+	Number of Dead Mutants: 1
 _________________________________________________
 
 
 Teste Case # 4
-	Number of Dead Mutants: 88
+	Number of Dead Mutants: 83
 _________________________________________________
 
 
 Teste Case # 5
-	Number of Dead Mutants: 144
+	Number of Dead Mutants: 140
 _________________________________________________
 
 
 Teste Case # 6
-	Number of Dead Mutants: 2
+	Number of Dead Mutants: 3
 _________________________________________________

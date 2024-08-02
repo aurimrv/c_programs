@@ -23,7 +23,7 @@ Teste Case # 2 1
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 11
+	Exec. Time (total): 10
 	Return Code: 0
 	Parameters: 10 
 	Input Size: 0
@@ -63,7 +63,7 @@ Teste Case # 4 3
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 11
+	Exec. Time (total): 10
 	Return Code: 0
 	Parameters: 0123456789 
 	Input Size: 0

@@ -144,7 +144,7 @@ Teste Case # 6 5
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 0
 	Parameters: - 2024 
 	Input Size: 0
@@ -162,7 +162,7 @@ Teste Case # 7 6
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 0
 	Parameters: - 2024 
 	Input Size: 0
@@ -206,7 +206,7 @@ Teste Case # 9 8
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 11
+	Exec. Time (total): 10
 	Return Code: 0
 	Parameters: 3 2024 
 	Input Size: 0
@@ -336,7 +336,7 @@ Teste Case # 14 13
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 11
+	Exec. Time (total): 10
 	Return Code: 0
 	Parameters: 2 2024 
 	Input Size: 0
@@ -414,7 +414,7 @@ Teste Case # 17 16
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 0
 	Parameters: 2 2023 
 	Input Size: 0
@@ -440,7 +440,7 @@ Teste Case # 18 17
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 11
+	Exec. Time (total): 10
 	Return Code: 0
 	Parameters: 9 1751 
 	Input Size: 0
@@ -530,22 +530,22 @@ Teste Case # 22 21
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 0
 	Parameters: 
 	Input Size: 0
-	Output Size: 136
+	Output Size: 142
 	Stderr Size: 0
 	Input:
 
 	Output:
-   May 2024
+   August 2024
  S  M Tu  W Th  F  S
-          1  2  3  4
- 5  6  7  8  9 10 11
-12 13 14 15 16 17 18
-19 20 21 22 23 24 25
-26 27 28 29 30 31
+             1  2  3
+ 4  5  6  7  8  9 10
+11 12 13 14 15 16 17
+18 19 20 21 22 23 24
+25 26 27 28 29 30 31
 
 
 	Stderr:
@@ -608,7 +608,7 @@ Teste Case # 25 24
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 0
 	Parameters: 6 2024 
 	Input Size: 0
@@ -790,7 +790,7 @@ Teste Case # 32 31
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 0
 	Parameters: 2 2023 
 	Input Size: 0
@@ -816,7 +816,7 @@ Teste Case # 33 32
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 0
 	Parameters: 9 1751 
 	Input Size: 0
@@ -842,7 +842,7 @@ Teste Case # 34 33
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 0
 	Parameters: 9 1753 
 	Input Size: 0
@@ -867,8 +867,8 @@ Travessed blocks:
 Teste Case # 35 34
 Label:	
 	ENABLED
-	Exec. Time (CPU): 10
-	Exec. Time (total): 11
+	Exec. Time (CPU): 11
+	Exec. Time (total): 10
 	Return Code: 0
 	Parameters: 1750 
 	Input Size: 0
@@ -926,7 +926,7 @@ Teste Case # 36 35
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 0
 	Parameters: 1800 
 	Input Size: 0
@@ -983,7 +983,7 @@ Travessed blocks:
 Teste Case # 37 36
 Label:	
 	ENABLED
-	Exec. Time (CPU): 10
+	Exec. Time (CPU): 11
 	Exec. Time (total): 11
 	Return Code: 0
 	Parameters: 1900 
@@ -1157,7 +1157,7 @@ Travessed blocks:
 Teste Case # 40 39
 Label:	
 	ENABLED
-	Exec. Time (CPU): 10
+	Exec. Time (CPU): 11
 	Exec. Time (total): 10
 	Return Code: 0
 	Parameters: 1753 
@@ -1215,23 +1215,23 @@ Travessed blocks:
 Teste Case # 41 40
 Label:	
 	ENABLED
-	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (CPU): 11
+	Exec. Time (total): 11
 	Return Code: 0
 	Parameters: 
 	Input Size: 0
-	Output Size: 136
+	Output Size: 142
 	Stderr Size: 0
 	Input:
 
 	Output:
-   May 2024
+   August 2024
  S  M Tu  W Th  F  S
-          1  2  3  4
- 5  6  7  8  9 10 11
-12 13 14 15 16 17 18
-19 20 21 22 23 24 25
-26 27 28 29 30 31
+             1  2  3
+ 4  5  6  7  8  9 10
+11 12 13 14 15 16 17
+18 19 20 21 22 23 24
+25 26 27 28 29 30 31
 
 
 	Stderr:

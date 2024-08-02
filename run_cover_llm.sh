@@ -1,13 +1,13 @@
 #!/bin/bash
 
 #####################################################################
-# run.sh $HOME/User/folder_repository programs.txt
+# run_cover_llm.sh $HOME/User/folder_repository programs.txt
 #####################################################################
 
 
 if [ "$#" -ne 2 ]
 then
-  echo "Usage: run.sh <projects root directory> <file with directory names to be tested>"
+  echo "Usage: run_cover_llm.sh <projects root directory> <file with directory names to be tested>"
   exit 1
 else
    EXPER_HOME=$1

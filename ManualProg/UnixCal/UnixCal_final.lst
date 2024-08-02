@@ -7,13 +7,13 @@
 []
 []   TOTAL MUTANTS: 4855
 []
-[]   ANOMALOUS MUTANTS: 0
+[]   ANOMALOUS MUTANTS: 3
 []
 []   ACTIVE MUTANTS: 4855
 []
 []   ALIVE MUTANTS: 0
 []
-[]   EQUIVALENT MUTANTS: 3530
+[]   EQUIVALENT MUTANTS: 339
 []
 []   MUTATION SCORE: 1.000000
 []
@@ -39,72 +39,92 @@
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 
 Teste Case # 1
-	Number of Dead Mutants: 352
+	Number of Dead Mutants: 2195
 _________________________________________________
 
 
 Teste Case # 2
-	Number of Dead Mutants: 60
+	Number of Dead Mutants: 114
 _________________________________________________
 
 
 Teste Case # 3
-	Number of Dead Mutants: 86
+	Number of Dead Mutants: 219
 _________________________________________________
 
 
 Teste Case # 4
-	Number of Dead Mutants: 27
+	Number of Dead Mutants: 48
 _________________________________________________
 
 
 Teste Case # 5
-	Number of Dead Mutants: 33
+	Number of Dead Mutants: 451
 _________________________________________________
 
 
 Teste Case # 6
-	Number of Dead Mutants: 689
+	Number of Dead Mutants: 1122
 _________________________________________________
 
 
 Teste Case # 7
-	Number of Dead Mutants: 17
+	Number of Dead Mutants: 27
 _________________________________________________
 
 
 Teste Case # 8
-	Number of Dead Mutants: 9
+	Number of Dead Mutants: 167
 _________________________________________________
 
 
 Teste Case # 9
-	Number of Dead Mutants: 10
+	Number of Dead Mutants: 38
+_________________________________________________
+
+
+Teste Case # 10
+	Number of Dead Mutants: 1
 _________________________________________________
 
 
 Teste Case # 11
-	Number of Dead Mutants: 1
+	Number of Dead Mutants: 38
+_________________________________________________
+
+
+Teste Case # 12
+	Number of Dead Mutants: 12
 _________________________________________________
 
 
 Teste Case # 13
-	Number of Dead Mutants: 1
+	Number of Dead Mutants: 7
 _________________________________________________
 
 
 Teste Case # 14
-	Number of Dead Mutants: 17
+	Number of Dead Mutants: 26
 _________________________________________________
 
 
 Teste Case # 15
-	Number of Dead Mutants: 17
+	Number of Dead Mutants: 26
+_________________________________________________
+
+
+Teste Case # 16
+	Number of Dead Mutants: 1
+_________________________________________________
+
+
+Teste Case # 18
+	Number of Dead Mutants: 1
 _________________________________________________
 
 
 Teste Case # 19
-	Number of Dead Mutants: 2
+	Number of Dead Mutants: 8
 _________________________________________________
 
 
@@ -113,6 +133,36 @@ Teste Case # 20
 _________________________________________________
 
 
+Teste Case # 21
+	Number of Dead Mutants: 1
+_________________________________________________
+
+
+Teste Case # 22
+	Number of Dead Mutants: 1
+_________________________________________________
+
+
 Teste Case # 23
+	Number of Dead Mutants: 2
+_________________________________________________
+
+
+Teste Case # 24
+	Number of Dead Mutants: 2
+_________________________________________________
+
+
+Teste Case # 25
+	Number of Dead Mutants: 1
+_________________________________________________
+
+
+Teste Case # 26
+	Number of Dead Mutants: 1
+_________________________________________________
+
+
+Teste Case # 27
 	Number of Dead Mutants: 2
 _________________________________________________

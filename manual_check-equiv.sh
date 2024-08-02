@@ -20,9 +20,8 @@ else
       cd $EXPER_HOME/$PROG
       
       echo "############### TESTING PROGRAM: $PROG ###############"
-   
-      echo " " >> equivalent_${PROG}.txt
-      muta -l $SESSION | info-muta -alive >> equivalent_${PROG}.txt
+
+      muta -l $SESSION | info-muta -alive > equivalent_${PROG}.txt
 
       sleep 1
 

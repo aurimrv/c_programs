@@ -60,7 +60,7 @@ Teste Case # 4 3
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 38
 	Parameters: 
 	Input Size: 0
@@ -98,7 +98,7 @@ Teste Case # 6 5
 Label:	
 	ENABLED
 	Exec. Time (CPU): 10
-	Exec. Time (total): 10
+	Exec. Time (total): 11
 	Return Code: 1
 	Parameters: 1 
 	Input Size: 0
@@ -154,7 +154,7 @@ Travessed blocks:
 Teste Case # 9 8
 Label:	
 	ENABLED
-	Exec. Time (CPU): 10
+	Exec. Time (CPU): 11
 	Exec. Time (total): 10
 	Return Code: 1
 	Parameters: INT_MAX INT_MAX INT_MAX 

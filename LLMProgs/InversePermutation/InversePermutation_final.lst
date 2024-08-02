@@ -11,11 +11,11 @@
 []
 []   ACTIVE MUTANTS: 576
 []
-[]   ALIVE MUTANTS: 0
+[]   ALIVE MUTANTS: 10
 []
-[]   EQUIVALENT MUTANTS: 71
+[]   EQUIVALENT MUTANTS: 61
 []
-[]   MUTATION SCORE: 1.000000
+[]   MUTATION SCORE: 0.980583
 []
 []   OPERATORS:
 []   u-Cccr              5    u-CCDL              1    u-Ccsr             42    

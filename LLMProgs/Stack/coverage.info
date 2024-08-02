@@ -1,5 +1,5 @@
 TN:
-SF:/home/macaia/Documentos/TCC/Prog_C_Drive_auto_GPT/Teste1/DriverCommand/Stack/driver.c
+SF:/local/c_sbqs2024/LLMProgs/Stack/driver.c
 FN:11,driver
 FNDA:10,driver
 DA:11,10
@@ -76,7 +76,7 @@ DA:107,1
 DA:109,10
 end_of_record
 TN:
-SF:/home/macaia/Documentos/TCC/Prog_C_Drive_auto_GPT/Teste1/DriverCommand/Stack/Stack.c
+SF:/local/c_sbqs2024/LLMProgs/Stack/Stack.c
 FN:13,join
 FNDA:1020,join
 FN:19,push
