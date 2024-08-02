@@ -38,12 +38,12 @@
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 
 Teste Case # 1
-	Number of Dead Mutants: 4104
+	Number of Dead Mutants: 4096
 _________________________________________________
 
 
 Teste Case # 2
-	Number of Dead Mutants: 576
+	Number of Dead Mutants: 583
 _________________________________________________
 
 
@@ -68,7 +68,7 @@ _________________________________________________
 
 
 Teste Case # 7
-	Number of Dead Mutants: 25
+	Number of Dead Mutants: 26
 _________________________________________________
 
 

@@ -1,0 +1,2 @@
+filename,line_total,line_covered,line_percent,branch_total,branch_covered,branch_percent
+Stack.c,49,45,0.9179999999999999,18,14,0.778

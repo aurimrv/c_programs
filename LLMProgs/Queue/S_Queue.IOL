@@ -120,4 +120,58 @@ V 2.1 - IM
 2
 24837 32 
 80 24902 32 
+c0 Invalid Queue
+3
+24837 32 
+80 24902 32 
+98 25046 32 
+c0 Invalid Queue
+3
+24837 32 
+80 24902 32 
+98 25194 32 
+c0 Invalid Queue
+2
+24837 32 
+80 25421 32 
+c0 
+
+		 Element Successfully Inserted
+
+		 Element Successfully Inserted
+
+		 Element Successfully Inserted
+
+		 Element Successfully Inserted
+
+		 Element Successfully Inserted
+
+		 Element Successfully Inserted
+
+		 Element Successfully Inserted
+
+		 Element Successfully Inserted
+
+		 Element Successfully Inserted
+
+		 Element Successfully InsertedQueue is full
+4
+24837 32 
+80 24902 32 
+98 25046 32 
+90 25421 32 
+8099 Invalid Queue
+2
+24837 32 
+80 25737 32 
+c0 Queue is empty
+4
+24837 32 
+80 24902 32 
+98 25194 32 
+98 25737 32 
+98 Invalid Queue
+2
+24837 32 
+80 26012 32 
 c0 

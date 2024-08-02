@@ -1,0 +1,2 @@
+filename,line_total,line_covered,line_percent,branch_total,branch_covered,branch_percent
+cal.c,22,22,1.0,10,9,0.9

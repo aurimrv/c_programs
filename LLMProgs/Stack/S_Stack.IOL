@@ -2,10 +2,7 @@ PROTEUM - I/O LOG FILE
 Aug-02-24
 V 2.1 - IM
                    
-Invalid test case number
-1
-22263 32 
-80 Popped value: -1
+Popped value: -1
 Popped value: 0
 Bottom - up: 
 6

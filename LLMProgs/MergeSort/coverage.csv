@@ -1,0 +1,2 @@
+filename,line_total,line_covered,line_percent,branch_total,branch_covered,branch_percent
+MergeSort.c,36,36,1.0,18,18,1.0
