@@ -71,5 +71,7 @@ else
       gcov ${PROG}.c
       lcov --capture --directory . --output-file coverage.info
       genhtml coverage.info --output-directory coverage_report
+      # Generating CSV report with statement and branch coverage
+      gcovr -f ${PROG} --csv coverage.csv 
    done
 fi

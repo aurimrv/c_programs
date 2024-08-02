@@ -47,8 +47,8 @@ else
       report -tcase -S ${PROG}_initial $SESSION
 
       # Marcando Mutantes Equivalentes
-      #equivalents=$(cat equivalent_$PROG.txt)
-      #muta -equiv -x "$equivalents" $SESSION
+      equivalents=$(cat equivalent_$PROG.txt)
+      muta -equiv -x "$equivalents" $SESSION
 
       # Importar casos de teste
       tc=1
@@ -74,5 +74,7 @@ else
       gcov ${PROG}.c
       lcov --capture --directory . --output-file coverage.info
       genhtml coverage.info --output-directory coverage_report
+      # Generating CSV report with statement and branch coverage
+      gcovr -f ${PROG} --csv coverage.csv       
    done
 fi
